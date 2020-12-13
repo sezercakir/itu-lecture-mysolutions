@@ -1,5 +1,6 @@
 # mysolutions
--   Istanbul Technical Universtiy BLG102E Introduction to Scientific and Engineering Computation(C) Lecture Assignments 
+-   Istanbul Technical Universtiy BLG102E Introduction to Scientific and Engineering Computation(C) Lecture Assignments
+
        Spring Term by Hayri Turgut Uyar
        
        Summer Term Deniz Turgay Altılar
