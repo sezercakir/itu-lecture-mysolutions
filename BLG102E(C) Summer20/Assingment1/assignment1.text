@@ -1,0 +1,64 @@
+Write a C program to create a square of diamonds (SoD: 4 diamonds touching to two others) as shown in the examples.  User input required to decide the size of the SoD. User input should be non negative odd integer. User has to be urged to enter an odd number.
+
+For n=5
+
+    X       X
+  X X X   X X X
+X X X X X X X X X 
+  X X X   X X X
+    X       X
+  X X X   X X X
+X X X X X X X X X 
+  X X X   X X X
+    X       X
+
+
+For n=7
+
+      X           X
+    X X X       X X X
+  X X X X X   X X X X X 
+X X X X X X X X X X X X X
+  X X X X X   X X X X X 
+    X X X       X X X
+      X           X
+    X X X       X X X
+  X X X X X   X X X X X 
+X X X X X X X X X X X X X
+  X X X X X   X X X X X 
+    X X X       X X X
+      X           X
+
+
+Modify your program so that the inside of the diamondsa are filled with numbers as follows:
+
+
+For n=5
+
+    X       X
+  X 1 X   X 1 X
+X 1 2 1 X 1 2 1 X 
+  X 1 X   X 1 X
+    X       X
+  X 1 X   X 1 X
+X 1 2 1 X 1 2 1 X 
+  X X X   X 1 X
+    X       X
+
+
+For n=7
+
+      X           X
+    X 1 X       X 1 X
+  X 1 2 1 X   X 1 2 1 X 
+X 1 2 3 2 1 X 1 2 3 2 1 X
+  X 1 2 1 X   X 1 2 1 X 
+    X 1 X       X 1 X
+      X           X
+    X 1 X       X 1 X
+  X 1 2 1 X   X 1 2 1 X 
+X 1 2 3 2 1 X 1 2 3 2 1 X
+  X 1 2 1 X   X 1 2 1 X 
+    X 1 X       X 1 X
+      X           X
+

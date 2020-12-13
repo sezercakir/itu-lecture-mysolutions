@@ -1,0 +1,55 @@
+"The Drunk Bridge" is connecting the East of the city to the West of it.  
+
+A drunk person is left in the middle of a bridge facing West. 
+
+The person's home is at the end of the West side of the bridge. 
+
+The size of the bridge is 10m by 4m. (10m in the East-West Direction.)
+
+Since the person is drunk random steps are taken in four directions.
+
+(East, West, South, North) with different step sizes:
+
+40cm to the East, 70cm to the West, 30 cm to the South and to the North.
+
+ 
+
+Write a program to simulate the random walk of the drunk person. 
+
+ 
+
+Determine the number of steps the person will walk before steping off the bridge or reaching at either end of the bridge and print on screen.
+
+ 
+
+Run the simulation for 1000 times and print the number of times that the drunk person is
+
+reaching at home  (ex 32)
+
+reaching to the wrong end of the bridge (ex 937)
+
+stepping off the bridge (ex 31)
+
+on screen.
+
+ 
+
+Run 1 : 56 step, ends in the water                               
+
+Run 2 : 79 step, ends at HOME
+
+.
+
+.
+
+.
+
+Run 1000: 48 steps, ends in the water
+
+In total
+
+32 runs to HOME
+
+937 runs to the water
+
+31 runs to PUB

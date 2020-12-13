@@ -1,0 +1,34 @@
+QUIZ 2
+
+A Variation of insertion sort:
+
+Write a funciton in C for insertion sort.
+
+Write a main function to receive a number from user and calls the function for insertion sort. The actual array will be printed on screen by the main function.
+
+Prompt user on the max number of items you may receive. Program should terminate when user enters a negative value as input or exceeds the number of possible items.
+
+ 
+
+ 
+
+ 
+
+3
+
+A:3
+
+4
+
+A:3 4
+
+1
+
+A 1 3 4
+
+ 
+
+-1
+
+A 1 2 3 5 7 8 9 12 23
+
